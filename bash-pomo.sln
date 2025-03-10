@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bash-pomo", "bash-pomo.csproj", "{93517480-6921-4496-B928-96D1194ABF49}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bash-pomo.app", "./src/bash-pomo.app/bash-pomo.app.csproj", "{93517480-6921-4496-B928-96D1194ABF49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
